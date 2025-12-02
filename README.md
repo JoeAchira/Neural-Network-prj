@@ -70,6 +70,11 @@ Accuracy	0.88
 
 - Early-term performance indicators
 
+## Visuals
+
+<img src="images/Stuimg1.png" alt="Project Logo" width="600"/>
+<img src="images/Stuimg2.png" alt="Project Logo" width="600"/>
+
 ## Learning Outcomes
 
 Strengthened understanding of imbalanced data handling and ROC-AUC optimisation.
